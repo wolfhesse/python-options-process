@@ -105,7 +105,7 @@ python-dateutil==2.6.1
 python-debian==0.1.30
 python-mimeparse==1.6.0
 pytz==2017.2
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 reportlab==3.4.0
 requests==2.18.4
