@@ -88,7 +88,7 @@ pyasn1==0.3.2
 pycparser==2.18
 pycrypto==2.6.1
 pyenchant==1.6.11
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 PyJWT==1.5.2
 pykerberos==1.1.5
