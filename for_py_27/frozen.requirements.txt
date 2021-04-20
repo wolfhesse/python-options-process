@@ -64,7 +64,7 @@ plainbox==0.35.0
 pluggy==0.4.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
-py==1.4.34
+py==1.10.0
 pyasn1==0.3.2
 pycparser==2.18
 pyenchant==1.6.11
