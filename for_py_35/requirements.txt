@@ -96,7 +96,7 @@ pyenchant==1.6.11
 Pygments==2.2.0
 pygobject==3.22.0
 pyinotify==0.9.6
-PyJWT==1.5.2
+PyJWT==2.4.0
 PyNaCl==1.1.2
 pyOpenSSL==17.2.0
 pyparsing==2.2.0
